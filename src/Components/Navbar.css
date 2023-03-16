@@ -1,0 +1,15 @@
+
+
+.link-home,
+.link-about {
+  color: #238b76 !important;
+  font-size: 20px !important;
+  margin: 0 10px;
+}
+
+.link-home:hover,
+.link-about:hover {
+  color: white !important;
+  background-color: #238b76 !important;
+}
+
